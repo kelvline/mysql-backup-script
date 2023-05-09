@@ -46,7 +46,7 @@
 </ol>
 </li>
 </ol>
-<p><strong>git clone https://github.com/kelvline/mysql-backup-script.git</strong></p>
+<p><strong><code>git clone https://github.com/kelvline/mysql-backup-script.git</code></strong></p>
 <ol>
 <li>Alternatively, you can download a ZIP file of the repository from the GitHub website. To do this, go to your repository's main page, click on the "Code" button, and select "<strong>Download ZIP</strong>".</li>
 </ol>
